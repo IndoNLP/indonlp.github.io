@@ -1,7 +1,12 @@
 ---
-layout: splash
+layout: wide
 title: "IndoNLP"
 excerpt: Research community for Indonesian and its local languages.
+header:
+  overlay_image: /assets/images/banner.jpg
+  overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
+  caption: "Photo credit: [**Pixabay**](https://pixabay.com/photos/bali-nature-mountain-pond-volcano-1674192/)"
+
 ---
 
 Indonesian languages are underrepresented in global NLP research community ([Aji., et al 2022](https://aclanthology.org/2022.acl-long.500.pdf)).
