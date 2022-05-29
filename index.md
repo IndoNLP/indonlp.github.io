@@ -1,4 +1,10 @@
-ndonesian languages are underrepresented in global NLP research community ([Aji., et al 2022](https://aclanthology.org/2022.acl-long.500.pdf)).
+---
+layout: splash
+title: "IndoNLP"
+excerpt: Research community for Indonesian and its local languages.
+---
+
+Indonesian languages are underrepresented in global NLP research community ([Aji., et al 2022](https://aclanthology.org/2022.acl-long.500.pdf)).
 Despite having more than 700 diverse languages across Indonesia, NLP research and technologies only focus on a tiny fraction of them. IndoNLP is a research community with a mission to advance Indonesian language NLP research.
 
 ## Challenges
