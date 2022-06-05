@@ -18,7 +18,7 @@ Currently, we have built **5 new benchmarks** to support NLP research on Indones
 
 * [2022](https://indonlp.github.io/projects#2022)
     * [NusaX](https://indonlp.github.io/projects#nusax)
-    * [700+ Position Paper]()
+    * [One Country, 700+ Languages](https://indonlp.github.io/projects#one-country-700-languages)
 * [2021](https://indonlp.github.io/projects#2021)
     * [IndoNLG](https://indonlp.github.io/projects#indonlg)
     * [IndoNLI](https://indonlp.github.io/projects#indonli)
