@@ -14,14 +14,14 @@ header:
 We will initiate a hackathon to centralize many NLP datasets in Indonesian and local languages. Indonesian languages are diverse and scattered, so a unified location that joins multiple sources while preserving the data closest to the original form can greatly help accessibility. We propose a unified schema for dataset extraction to implement as many datasets as possible to enable reproducibility in data processing. Stay tuned for the next update!
 
 # Past Projects
-* 2022
-    * NusaX
-* 2021
-    * IndoNLI
-    * IndoNLG
-* 2020
-    * IndoLEM
-    * IndoNLU
+* [2022](https://indonlp.github.io/projects#2022)
+    * [NusaX](https://indonlp.github.io/projects#nusax)
+* [2022](https://indonlp.github.io/projects#2021)
+    * [IndoNLI](https://indonlp.github.io/projects#indonli)
+    * [IndoNLG](https://indonlp.github.io/projects#indonlg)
+* [2020](https://indonlp.github.io/projects#2020)
+    * [IndoLEM](https://indonlp.github.io/projects#indolem)
+    * [IndoNLU](https://indonlp.github.io/projects#indonlu)
 
 ## 2022
 
