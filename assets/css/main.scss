@@ -5,13 +5,13 @@ search: false
 
 @charset "utf-8";
 
-$link-color: red;
+$link-color: rgb(255, 145, 11);
 
 $right-sidebar-width-narrow: 100px;
 $right-sidebar-width: 180px;
 $right-sidebar-width-wide: 260px;
 
-$doc-font-size: 12;
+$doc-font-size: 8;
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
