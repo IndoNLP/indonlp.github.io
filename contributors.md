@@ -24,3 +24,6 @@ We would thank the initial contributors for making this initiative possible **(n
 - Rahmad Mahendra (Universitas Indonesia, INACL)
 - Samuel Cahyawijaya (The Hong Kong University of Science and Technology)
 - Sebastian Ruder (Google Research)
+
+Some of the projects are also supported by research communities:
+- [INACL](https://inacl.id/inacl/)
