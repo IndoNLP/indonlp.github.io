@@ -43,7 +43,7 @@ NusaX is a high-quality multilingual parallel corpus for Indonesian local langua
 
 ### One Country, 700+ Languages
 
-NLP research is impeded by a lack of resources and awareness of the challenges presented by underrepresented languages and dialects. Focusing on the languages spoken in Indonesia, the second most linguistically diverse and the fourth most populous nation of the world, we provide an overview of the current state of NLP research for Indonesia’s 700+ languages. We highlight challenges in Indonesian NLP and how these affect the performance of current NLP systems. Finally, we provide general recommendations to help develop NLP technology not only for languages of Indonesia but also other underrepresented languages.
+We provide an overview of the current state of NLP research for Indonesia’s 700+ languages. We highlight challenges in Indonesian NLP and how these affect the performance of current NLP systems. Finally, we provide general recommendations to help develop NLP technology not only for languages of Indonesia but also other underrepresented languages.
 
 <i class="fas fa-book" aria-hidden="true"></i> **Paper:** One Country, 700+ Languages: NLP Challenges for Underrepresented Languages and Dialects in Indonesia [ACL 2022](https://aclanthology.org/2022.acl-long.500.pdf){: .btn .btn--info .btn--small } 
 {: .notice}
