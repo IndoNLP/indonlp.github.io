@@ -1,6 +1,5 @@
 ---
 layout: single
-classes: wide2
 title: "IndoNLP"
 excerpt: Research community for Indonesian and its local languages.
 header:
