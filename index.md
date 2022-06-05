@@ -12,8 +12,11 @@ Indonesian languages are underrepresented in global NLP research community ([Aji
 Despite having more than 700 diverse languages across Indonesia, NLP research and technologies only focus on a tiny fraction of them. IndoNLP is a research community with a mission to advance Indonesian language NLP research.
 
 ## News
-- We released a high-quality parallel sentiment corpus on 10 low-resource languages, [NusaX dataset](https://github.com/IndoNLP/nusax). Check the [paper](https://arxiv.org/pdf/2205.15960.pdf).
-- [One Country, 700+ Languages: NLP Challenges for Underrepresented Languages and Dialects in Indonesia](https://aclanthology.org/2022.acl-long.500.pdf) was presented as a long paper at ACL 2022
+We released a high-quality parallel sentiment corpus on 10 low-resource languages, [NusaX dataset](https://github.com/IndoNLP/nusax). Check the [paper](https://arxiv.org/pdf/2205.15960.pdf).
+{: .notice--warning}
+
+[One Country, 700+ Languages: NLP Challenges for Underrepresented Languages and Dialects in Indonesia](https://aclanthology.org/2022.acl-long.500.pdf) was presented as a long paper at ACL 2022
+{: .notice--warning}
 
 ## Challenges
 
