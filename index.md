@@ -18,7 +18,7 @@ We released a high-quality parallel sentiment corpus on 10 low-resource language
 [One Country, 700+ Languages: NLP Challenges for Underrepresented Languages and Dialects in Indonesia](https://aclanthology.org/2022.acl-long.500.pdf) was presented as a long paper at ACL 2022
 {: .notice--warning}
 
-## Challenges
+## Challenges we solve
 
 - **Low-resource**: The lack of resource (i.e. dataset or model) is one of the challenge of Indonesian NLP. Some of existing resources are hard to find since they are not released publicly, or locked behind institutional biuroecacy. Therefore, global communities (esp. those that do not speak Indonesian) is having difficulty to adapt their research and technology to Indonesian languages.
 
@@ -26,7 +26,7 @@ We released a high-quality parallel sentiment corpus on 10 low-resource language
 
 - **Multilinguality**: Most of Indonesian is at least bilingual: they can speak Indonesian + their own local language. In addition, they often learn other languages as well such as English, Arabic, Chinese etc, due to school or religion reason. Therefore, their daily conversations are filled with code-switching, and these languages are intertwined with each other.
 
-## Contribute
+## How to contribute?
 
 See our current project(s) and if any of those interest you, please reach us!
 You can also contact us if you have cool ideas or looking for a collaborations with local researchers.
