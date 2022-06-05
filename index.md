@@ -20,9 +20,9 @@ We released a high-quality parallel sentiment corpus on 10 low-resource language
 
 ## Challenges we solve
 
-- **Low-resource**: The lack of resource (i.e. dataset or model) is one of the challenge of Indonesian NLP. Some of existing resources are hard to find since they are not released publicly, or locked behind institutional biuroecacy. Therefore, global communities (esp. those that do not speak Indonesian) is having difficulty to adapt their research and technology to Indonesian languages.
+- **Low-resource**: The lack of resource (i.e., dataset or model) is one of the challenge of Indonesian NLP. Some of existing resources are hard to find since they are not released publicly, or locked behind institutional biuroecacy. Therefore, global communities (esp. those that do not speak Indonesian) is having difficulty to adapt their research and technology to Indonesian languages.
 
-- **Language and Dialect diversity**: Indonesian local languages are rich on dialects. The same local language might be spoken differently within cities/villages. They also often use different language style depending on their speaking partners (i.e. casual vs polite).
+- **Language and Dialect diversity**: Indonesian local languages are rich on dialects. The same local language might be spoken differently within cities/villages. They also often use different language style depending on their speaking partners (i.e., casual vs. polite).
 
 - **Multilinguality**: Most of Indonesian is at least bilingual: they can speak Indonesian + their own local language. In addition, they often learn other languages as well such as English, Arabic, Chinese etc, due to school or religion reason. Therefore, their daily conversations are filled with code-switching, and these languages are intertwined with each other.
 
