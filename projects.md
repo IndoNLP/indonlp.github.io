@@ -17,14 +17,18 @@ We will initiate a hackathon to centralize many NLP datasets in Indonesian and l
 Currently, we have built **5 new benchmarks** to support NLP research on Indonesian languages and published papers in top NLP conferences. You can check this page for more details.
 
 * [2022](https://indonlp.github.io/projects#2022)
-    * [NusaX](https://indonlp.github.io/projects#nusax)
-    * [One Country, 700+ Languages](https://indonlp.github.io/projects#one-country-700-languages)
+    * Resource:
+        * [NusaX](https://indonlp.github.io/projects#nusax)
+    * Position Paper:
+        * [One Country, 700+ Languages](https://indonlp.github.io/projects#one-country-700-languages)
 * [2021](https://indonlp.github.io/projects#2021)
-    * [IndoNLG](https://indonlp.github.io/projects#indonlg)
-    * [IndoNLI](https://indonlp.github.io/projects#indonli)
+    * Resource:
+        * [IndoNLG](https://indonlp.github.io/projects#indonlg)
+        * [IndoNLI](https://indonlp.github.io/projects#indonli)
 * [2020](https://indonlp.github.io/projects#2020)
-    * [IndoNLU](https://indonlp.github.io/projects#indonlu)
-    * [IndoLEM](https://indonlp.github.io/projects#indolem)
+    * Resource:
+        * [IndoNLU](https://indonlp.github.io/projects#indonlu)
+        * [IndoLEM](https://indonlp.github.io/projects#indolem)
 
 ## 2022
 
