@@ -8,7 +8,7 @@ header:
   caption: "Photo credit: [**Pixabay**](https://pixabay.com/photos/bali-nature-mountain-pond-volcano-1674192/)"
 ---
 
-IndoNLP is an independent global effort to work on open-source projects for building new public corpora, benchmarks, and models. The contributors are individuals and volunteers coming from different worlds in academia and industry. 
+IndoNLP is an independent global effort to work on open-source projects for building new public corpora, benchmarks, and models on Indonesian languages. The contributors are individuals and volunteers coming from different worlds in academia and industry. 
 
 We would thank the initial contributors for making this initiative possible **(names sorted alphabetically)**:
 - Ade Rohmadhony (Telkom University, INACL)
