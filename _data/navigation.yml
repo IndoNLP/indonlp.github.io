@@ -3,5 +3,5 @@ main:
     url: /projects
   - title: "Resource Catalogue"
     url: /nusa-catalogue
-  - title: "INACL"
-    url: https://inacl.id/inacl/
+  - title: "Collaborators"
+    url: /collaborators
