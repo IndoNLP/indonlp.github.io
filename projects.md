@@ -14,13 +14,18 @@ header:
 We will initiate a hackathon to centralize many NLP datasets in Indonesian and local languages. Indonesian languages are diverse and scattered, so a unified location that joins multiple sources while preserving the data closest to the original form can greatly help accessibility. We propose a unified schema for dataset extraction to implement as many datasets as possible to enable reproducibility in data processing. Stay tuned for the next update!
 
 # Past Projects
-: NusaX
-: IndoNLI
-: IndoNLG
-: IndoLEM
-: IndoNLU
+* 2022
+    * NusaX
+* 2021
+    * IndoNLI
+    * IndoNLG
+* 2020
+    * IndoLEM
+    * IndoNLU
 
-## NusaX
+## 2022
+
+### NusaX
 
 NusaX is a high-quality multilingual parallel corpus for Indonesian local languages elicited by native speakers. NusaX covers 12 languages, Indonesian, English, and 10 Indonesian local languages, namely Acehnese, Balinese, Banjarese, Buginese, Madurese, Minangkabau, Javanese, Ngaju, Sundanese, and Toba Batak.
 
@@ -33,12 +38,13 @@ NusaX is a high-quality multilingual parallel corpus for Indonesian local langua
 <i class="fas fa-database" aria-hidden="true"></i> **Dataset:** [https://github.com/IndoNLP/nusax](https://github.com/IndoNLP/nusax) 
 {: .notice--info}
 
+## 2021
 
-## IndoNLI
+### IndoNLI
 
 IndoNLI is the first human-elicited Natural Language Inference (NLI) dataset for Indonesian. IndoNLI is annotated by both crowd workers and experts. The expert-annotated data is used exclusively as a test set. It is designed to provide a challenging test-bed for Indonesian NLI by explicitly incorporating various linguistic phenomena such as numerical reasoning, structural changes, idioms, or temporal and spatial reasoning.
 
-## IndoNLG
+### IndoNLG
 
 <i class="fas fa-book" aria-hidden="true"></i> **Paper:** IndoNLG: Benchmark and Resources for Evaluating Indonesian Natural Language Generation [EMNLP 2021](https://aclanthology.org/2021.emnlp-main.699.pdf){: .btn .btn--success .btn--small } 
 {: .notice}
@@ -49,10 +55,12 @@ IndoNLI is the first human-elicited Natural Language Inference (NLI) dataset for
 <i class="fas fa-database" aria-hidden="true"></i> **Dataset:** [https://github.com/IndoNLP/indonlg](https://github.com/IndoNLP/indonlg) 
 {: .notice--info}
 
-## IndoLEM
+## 2020
+
+### IndoLEM
 to be added
 
-## IndoNLU
+### IndoNLU
 
 Although Indonesian is known to be the fourth most frequently used language over the internet, the research progress on this language in the natural language processing (NLP) is slow-moving due to a lack of available resources. In response, we introduce the first-ever vast resource for the training, evaluating, and benchmarking on Indonesian natural language understanding (IndoNLU) tasks. IndoNLU includes twelve tasks, ranging from single sentence classification to pair-sentences sequence labeling with different levels of complexity. The datasets for the tasks lie in different domains and styles to ensure task diversity. We also provide a set of Indonesian pre-trained models (IndoBERT) trained from a large and clean Indonesian dataset Indo4B collected from publicly available sources such as social media texts, blogs, news, and websites. We release baseline models for all twelve tasks, as well as the framework for benchmark evaluation, and thus it enables everyone to benchmark their system performances. 
 
