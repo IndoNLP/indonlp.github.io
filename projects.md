@@ -19,9 +19,7 @@ We will initiate a hackathon to centralize many NLP datasets in Indonesian and l
 
 NusaX is a high-quality multilingual parallel corpus for Indonesian local languages elicited by native speakers. NusaX covers 12 languages, Indonesian, English, and 10 Indonesian local languages, namely Acehnese, Balinese, Banjarese, Buginese, Madurese, Minangkabau, Javanese, Ngaju, Sundanese, and Toba Batak.
 
-**Paper**: NusaX: Multilingual Parallel Sentiment Dataset for 10 Indonesian Local Languages(Winata, et al., 2022) [PDF](https://arxiv.org/pdf/2205.15960.pdf){: .btn .btn--success }
-
-**Code**: [Link](https://github.com/IndoNLP/nusax){: .btn .btn--danger }
+**Paper**: NusaX: Multilingual Parallel Sentiment Dataset for 10 Indonesian Local Language (Winata et al., 2022) [PDF](https://arxiv.org/pdf/2205.15960.pdf){: .btn .btn--success .btn--small } [Dataset](https://github.com/IndoNLP/nusax){: .btn .btn--danger .btn--small }
 
 
 ## IndoNLI
