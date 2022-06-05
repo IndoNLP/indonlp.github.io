@@ -3,5 +3,5 @@ main:
     url: /projects
   - title: "Resource Catalogue"
     url: /nusa-catalogue
-  - title: "Collaborators"
-    url: /collaborators
+  - title: "Contributors"
+    url: /contributors
