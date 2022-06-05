@@ -19,12 +19,6 @@ Despite having more than 700 diverse languages across Indonesia, NLP research an
 
 - **Multilinguality**: Most of Indonesian is at least bilingual: they can speak Indonesian + their own local language. In addition, they often learn other languages as well such as English, Arabic, Chinese etc, due to school or religion reason. Therefore, their daily conversations are filled with code-switching, and these languages are intertwined with each other.
 
-
-## How?
-
-- ** 
-
-
 ## Contribute
 
 See our current project(s) and if any of those interest you, please reach us!
