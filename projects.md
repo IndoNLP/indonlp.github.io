@@ -14,6 +14,11 @@ header:
 We will initiate a hackathon to centralize many NLP datasets in Indonesian and local languages. Indonesian languages are diverse and scattered, so a unified location that joins multiple sources while preserving the data closest to the original form can greatly help accessibility. We propose a unified schema for dataset extraction to implement as many datasets as possible to enable reproducibility in data processing. Stay tuned for the next update!
 
 # Past Projects
+: NusaX
+: IndoNLI
+: IndoNLG
+: IndoLEM
+: IndoNLU
 
 ## NusaX
 
