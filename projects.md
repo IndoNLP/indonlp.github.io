@@ -18,6 +18,7 @@ Currently, we have built **5 new benchmarks** to support NLP research on Indones
 
 * [2022](https://indonlp.github.io/projects#2022)
     * [NusaX](https://indonlp.github.io/projects#nusax)
+    * [700+ Position Paper]()
 * [2021](https://indonlp.github.io/projects#2021)
     * [IndoNLG](https://indonlp.github.io/projects#indonlg)
     * [IndoNLI](https://indonlp.github.io/projects#indonli)
@@ -39,6 +40,16 @@ NusaX is a high-quality multilingual parallel corpus for Indonesian local langua
 
 <i class="fas fa-database" aria-hidden="true"></i> **Dataset:** [https://github.com/IndoNLP/nusax](https://github.com/IndoNLP/nusax) 
 {: .notice--info}
+
+### One Country, 700+ Languages
+
+NLP research is impeded by a lack of resources and awareness of the challenges presented by underrepresented languages and dialects. Focusing on the languages spoken in Indonesia, the second most linguistically diverse and the fourth most populous nation of the world, we provide an overview of the current state of NLP research for Indonesia’s 700+ languages. We highlight challenges in Indonesian NLP and how these affect the performance of current NLP systems. Finally, we provide general recommendations to help develop NLP technology not only for languages of Indonesia but also other underrepresented languages.
+
+<i class="fas fa-book" aria-hidden="true"></i> **Paper:** One Country, 700+ Languages: NLP Challenges for Underrepresented Languages and Dialects in Indonesia [ACL 2022](https://aclanthology.org/2022.acl-long.500.pdf){: .btn .btn--info .btn--small } 
+{: .notice}
+
+<i class="fas fa-at" aria-hidden="true"></i> **Authors:** Alham Fikri Aji\*, Genta Indra Winata\*, Fajri Koto\*, Samuel Cahyawijaya\*, Ade Romadhony\*, Rahmad Mahendra\*, Kemal Kurniawan, David Moeljadi, Radityo Eko Prasojo, Timothy Baldwin, Jey Han Lau, Sebastian Ruder  (* equal contribution)
+{: .notice--warning}
 
 ## 2021
 
