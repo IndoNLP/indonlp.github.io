@@ -12,11 +12,15 @@ IndoNLP is an independent global effort to work on open-source projects for buil
 
 We would thank the initial contributors for making this initiative possible **(names sorted alphabetically)**:
 - Ade Rohmadhony (Telkom University)
+- Adhiguna Kuncoro (Deepmind, University of Oxford)
 - Alham Fikri Aji (Amazon)
+- Bryan Wilie (The Hong Kong University of Science and Technology)
 - David Moeljadi (Kanda University of International Studies)
 - Fajri Koto (University of Melbourne)
 - Genta Indra Winata (Bloomberg)
+- Karissa Vincentio (Universitas Multimedia Nusantara)
 - Kemal Kurniawan (University of Melbourne)
 - Radityo Eko Prasojo (Kata.ai)
-- Rahmad Mahendra (University of Indonesia)
+- Rahmad Mahendra (Universitas Indonesia)
 - Samuel Cahyawijaya (The Hong Kong University of Science and Technology)
+- Sebastian Ruder (Google Research)
