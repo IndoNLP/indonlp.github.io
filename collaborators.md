@@ -8,11 +8,11 @@ header:
   caption: "Photo credit: [**Pixabay**](https://pixabay.com/photos/bali-nature-mountain-pond-volcano-1674192/)"
 ---
 
-IndoNLP is a global effort to work on open-source projects for building new public corpora, benchmarks, and models. The contributors are individuals coming from different worlds in academia and industry. 
+IndoNLP is an independent global effort to work on open-source projects for building new public corpora, benchmarks, and models. The contributors are individuals and volunteers coming from different worlds in academia and industry. 
 
 We would thank the initial contributors for making this initiative possible (names sorted alphabetically):
-- Alham Fikri Aji (Amazon)
 - Ade Rohmadhony (Telkom University)
+- Alham Fikri Aji (Amazon)
 - Fajri Koto (University of Melbourne)
 - Genta Indra Winata (Bloomberg)
 - Kemal Kurniawan (University of Melbourne)
