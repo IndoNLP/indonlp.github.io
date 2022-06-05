@@ -1,3 +1,7 @@
+---
+layout: single
+---
+
 # Ongoing Projects
 
 ## Nusa-Crowd
