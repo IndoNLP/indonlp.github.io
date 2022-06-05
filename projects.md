@@ -22,8 +22,8 @@ Currently, we have built **5 new benchmarks** to support NLP research on Indones
     * [IndoNLG](https://indonlp.github.io/projects#indonlg)
     * [IndoNLI](https://indonlp.github.io/projects#indonli)
 * [2020](https://indonlp.github.io/projects#2020)
-    * [IndoLEM](https://indonlp.github.io/projects#indolem)
     * [IndoNLU](https://indonlp.github.io/projects#indonlu)
+    * [IndoLEM](https://indonlp.github.io/projects#indolem)
 
 ## 2022
 
@@ -70,18 +70,6 @@ IndoNLI is the first human-elicited Natural Language Inference (NLI) dataset for
 
 ## 2020
 
-### IndoLEM
-IndoLEM dataset comprising seven tasks for the Indonesian language, spanning morpho-syntax, semantics, and discourse. We additionally release IndoBERT, a new pre-trained language model for Indonesian, and evaluate it over IndoLEM, in addition to benchmarking it against existing resources. Our experiments show that IndoBERT achieves state-of-the-art performance over most of the tasks in IndoLEM.
-
-<i class="fas fa-book" aria-hidden="true"></i> **Paper:** IndoLEM and IndoBERT: A Benchmark Dataset and Pre-trained Language Model for Indonesian NLP [COLING 2020](https://aclanthology.org/2020.coling-main.66.pdf){: .btn .btn--info .btn--small } 
-{: .notice}
-
-<i class="fas fa-at" aria-hidden="true"></i> **Authors:** Fajri Koto, Afshin Rahimi, Jey Han Lau, Timothy Baldwin
-{: .notice--warning}
-
-<i class="fas fa-database" aria-hidden="true"></i> **Dataset:** [https://github.com/indolem/indolem](https://github.com/indolem/indolem) 
-{: .notice--info}
-
 ### IndoNLU
 
 IndoNLU is the first-ever vast resource for the training, evaluating, and benchmarking on Indonesian natural language understanding (IndoNLU) tasks. IndoNLU includes twelve tasks, ranging from single sentence classification to pair-sentences sequence labeling with different levels of complexity. The datasets for the tasks lie in different domains and styles to ensure task diversity. We also provide a set of Indonesian pre-trained models (IndoBERT) trained from a large and clean Indonesian dataset Indo4B collected from publicly available sources such as social media texts, blogs, news, and websites. We release baseline models for all twelve tasks, as well as the framework for benchmark evaluation, and thus it enables everyone to benchmark their system performances. 
@@ -93,4 +81,16 @@ IndoNLU is the first-ever vast resource for the training, evaluating, and benchm
 {: .notice--warning}
 
 <i class="fas fa-database" aria-hidden="true"></i> **Dataset and Code:** [https://github.com/IndoNLP/indonlu](https://github.com/IndoNLP/indonlu) 
+{: .notice--info}
+
+### IndoLEM
+IndoLEM dataset comprising seven tasks for the Indonesian language, spanning morpho-syntax, semantics, and discourse. We additionally release IndoBERT, a new pre-trained language model for Indonesian, and evaluate it over IndoLEM, in addition to benchmarking it against existing resources. Our experiments show that IndoBERT achieves state-of-the-art performance over most of the tasks in IndoLEM.
+
+<i class="fas fa-book" aria-hidden="true"></i> **Paper:** IndoLEM and IndoBERT: A Benchmark Dataset and Pre-trained Language Model for Indonesian NLP [COLING 2020](https://aclanthology.org/2020.coling-main.66.pdf){: .btn .btn--info .btn--small } 
+{: .notice}
+
+<i class="fas fa-at" aria-hidden="true"></i> **Authors:** Fajri Koto, Afshin Rahimi, Jey Han Lau, Timothy Baldwin
+{: .notice--warning}
+
+<i class="fas fa-database" aria-hidden="true"></i> **Dataset:** [https://github.com/indolem/indolem](https://github.com/indolem/indolem) 
 {: .notice--info}
