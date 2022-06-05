@@ -49,7 +49,7 @@ IndoNLG is the first benchmark to measure natural language generation (NLG) prog
 <i class="fas fa-book" aria-hidden="true"></i> **Paper:** IndoNLG: Benchmark and Resources for Evaluating Indonesian Natural Language Generation [EMNLP 2021](https://aclanthology.org/2021.emnlp-main.699.pdf){: .btn .btn--info .btn--small } 
 {: .notice}
 
-<i class="fas fa-at" aria-hidden="true"></i> **Authors:** Samuel Cahyawijaya\*, Genta Indra Winata\*, Bryan Wilie\*, Karissa Vincentio\*, Xiaohong Li*, Adhiguna Kuncoro*, Sebastian Ruder, Zhi Yuan Lim, Syafri Bahar, Masayu Leylia Khodra, Ayu Purwarianti, Pascale Fung (\* equal contribution)
+<i class="fas fa-at" aria-hidden="true"></i> **Authors:** Samuel Cahyawijaya\*, Genta Indra Winata\*, Bryan Wilie\*, Karissa Vincentio\*, Xiaohong Li\*, Adhiguna Kuncoro\*, Sebastian Ruder, Zhi Yuan Lim, Syafri Bahar, Masayu Leylia Khodra, Ayu Purwarianti, Pascale Fung (\* equal contribution)
 {: .notice--warning}
 
 <i class="fas fa-database" aria-hidden="true"></i> **Dataset:** [https://github.com/IndoNLP/indonlg](https://github.com/IndoNLP/indonlg) 
