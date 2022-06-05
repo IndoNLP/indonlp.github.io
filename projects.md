@@ -34,7 +34,7 @@ NusaX is a high-quality multilingual parallel corpus for Indonesian local langua
 <i class="fas fa-book" aria-hidden="true"></i> **Paper:** NusaX: Multilingual Parallel Sentiment Dataset for 10 Indonesian Local Language [Preprint arXiv 2022](https://arxiv.org/pdf/2205.15960.pdf){: .btn .btn--info .btn--small } 
 {: .notice}
 
-<i class="fas fa-at" aria-hidden="true"></i> **Authors:** Genta Indra Winata*, Alham Fikri Aji*, Samuel Cahyawijaya*, Rahmad Mahendra*, Fajri Koto*, Ade Romadhony*, Kemal Kurniawan*, David Moeljadi, Radityo Eko Prasojo, Pascale Fung, Timothy Baldwin, Jey Han Lau, Rico Sennrich, Sebastian Ruder  (* equal contribution)
+<i class="fas fa-at" aria-hidden="true"></i> **Authors:** Genta Indra Winata\*, Alham Fikri Aji\*, Samuel Cahyawijaya\*, Rahmad Mahendra\*, Fajri Koto\*, Ade Romadhony\*, Kemal Kurniawan\*, David Moeljadi, Radityo Eko Prasojo, Pascale Fung, Timothy Baldwin, Jey Han Lau, Rico Sennrich, Sebastian Ruder  (* equal contribution)
 {: .notice--warning}
 
 <i class="fas fa-database" aria-hidden="true"></i> **Dataset:** [https://github.com/IndoNLP/nusax](https://github.com/IndoNLP/nusax) 
@@ -49,7 +49,7 @@ IndoNLG is the first benchmark to measure natural language generation (NLG) prog
 <i class="fas fa-book" aria-hidden="true"></i> **Paper:** IndoNLG: Benchmark and Resources for Evaluating Indonesian Natural Language Generation [EMNLP 2021](https://aclanthology.org/2021.emnlp-main.699.pdf){: .btn .btn--info .btn--small } 
 {: .notice}
 
-<i class="fas fa-at" aria-hidden="true"></i> **Authors:** Samuel Cahyawijaya*, Genta Indra Winata*, Bryan Wilie*, Karissa Vincentio*, Xiaohong Li*, Adhiguna Kuncoro*, Sebastian Ruder, Zhi Yuan Lim, Syafri Bahar, Masayu Leylia Khodra, Ayu Purwarianti, Pascale Fung (* equal contribution)
+<i class="fas fa-at" aria-hidden="true"></i> **Authors:** Samuel Cahyawijaya\*, Genta Indra Winata\*, Bryan Wilie\*, Karissa Vincentio\*, Xiaohong Li*, Adhiguna Kuncoro*, Sebastian Ruder, Zhi Yuan Lim, Syafri Bahar, Masayu Leylia Khodra, Ayu Purwarianti, Pascale Fung (\* equal contribution)
 {: .notice--warning}
 
 <i class="fas fa-database" aria-hidden="true"></i> **Dataset:** [https://github.com/IndoNLP/indonlg](https://github.com/IndoNLP/indonlg) 
@@ -89,7 +89,7 @@ IndoNLU is the first-ever vast resource for the training, evaluating, and benchm
 <i class="fas fa-book" aria-hidden="true"></i> **Paper:** IndoNLU: Benchmark and Resources for Evaluating Indonesian Natural Language Understanding [AACL 2020](https://aclanthology.org/2020.aacl-main.85.pdf){: .btn .btn--info .btn--small } 
 {: .notice}
 
-<i class="fas fa-at" aria-hidden="true"></i> **Authors:** Bryan Wilie*, Karissa Vincentio*, Genta Indra Winata*, Samuel Cahyawijaya*, Xiaohong Li, Zhi Yuan Lim, Sidik Soleman, Rahmad Mahendra, Pascale Fung, Syafri Bahar, Ayu Purwarianti (* equal contribution)
+<i class="fas fa-at" aria-hidden="true"></i> **Authors:** Bryan Wilie\*, Karissa Vincentio\*, Genta Indra Winata\*, Samuel Cahyawijaya\*, Xiaohong Li, Zhi Yuan Lim, Sidik Soleman, Rahmad Mahendra, Pascale Fung, Syafri Bahar, Ayu Purwarianti (\* equal contribution)
 {: .notice--warning}
 
 <i class="fas fa-database" aria-hidden="true"></i> **Dataset and Code:** [https://github.com/IndoNLP/indonlu](https://github.com/IndoNLP/indonlu) 
