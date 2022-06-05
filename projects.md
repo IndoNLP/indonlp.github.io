@@ -29,7 +29,7 @@ We will initiate a hackathon to centralize many NLP datasets in Indonesian and l
 
 NusaX is a high-quality multilingual parallel corpus for Indonesian local languages elicited by native speakers. NusaX covers 12 languages, Indonesian, English, and 10 Indonesian local languages, namely Acehnese, Balinese, Banjarese, Buginese, Madurese, Minangkabau, Javanese, Ngaju, Sundanese, and Toba Batak.
 
-<i class="fas fa-book" aria-hidden="true"></i> **Paper:** NusaX: Multilingual Parallel Sentiment Dataset for 10 Indonesian Local Language [Preprint arXiv 2022](https://arxiv.org/pdf/2205.15960.pdf){: .btn .btn--success .btn--small } 
+<i class="fas fa-book" aria-hidden="true"></i> **Paper:** NusaX: Multilingual Parallel Sentiment Dataset for 10 Indonesian Local Language [Preprint arXiv 2022](https://arxiv.org/pdf/2205.15960.pdf){: .btn .btn--info .btn--small } 
 {: .notice}
 
 <i class="fas fa-at" aria-hidden="true"></i> **Authors:** Genta Indra Winata*, Alham Fikri Aji*, Samuel Cahyawijaya*, Rahmad Mahendra*, Fajri Koto*, Ade Romadhony*, Kemal Kurniawan*, David Moeljadi, Radityo Eko Prasojo, Pascale Fung, Timothy Baldwin, Jey Han Lau, Rico Sennrich, Sebastian Ruder  (* equal contribution)
@@ -46,7 +46,7 @@ IndoNLI is the first human-elicited Natural Language Inference (NLI) dataset for
 
 ### IndoNLG
 
-<i class="fas fa-book" aria-hidden="true"></i> **Paper:** IndoNLG: Benchmark and Resources for Evaluating Indonesian Natural Language Generation [EMNLP 2021](https://aclanthology.org/2021.emnlp-main.699.pdf){: .btn .btn--success .btn--small } 
+<i class="fas fa-book" aria-hidden="true"></i> **Paper:** IndoNLG: Benchmark and Resources for Evaluating Indonesian Natural Language Generation [EMNLP 2021](https://aclanthology.org/2021.emnlp-main.699.pdf){: .btn .btn--info .btn--small } 
 {: .notice}
 
 <i class="fas fa-at" aria-hidden="true"></i> **Authors:** Samuel Cahyawijaya*, Genta Indra Winata*, Bryan Wilie*, Karissa Vincentio*, Xiaohong Li*, Adhiguna Kuncoro*, Sebastian Ruder, Zhi Yuan Lim, Syafri Bahar, Masayu Leylia Khodra, Ayu Purwarianti, Pascale Fung (* equal contribution)
@@ -64,7 +64,7 @@ to be added
 
 Although Indonesian is known to be the fourth most frequently used language over the internet, the research progress on this language in the natural language processing (NLP) is slow-moving due to a lack of available resources. In response, we introduce the first-ever vast resource for the training, evaluating, and benchmarking on Indonesian natural language understanding (IndoNLU) tasks. IndoNLU includes twelve tasks, ranging from single sentence classification to pair-sentences sequence labeling with different levels of complexity. The datasets for the tasks lie in different domains and styles to ensure task diversity. We also provide a set of Indonesian pre-trained models (IndoBERT) trained from a large and clean Indonesian dataset Indo4B collected from publicly available sources such as social media texts, blogs, news, and websites. We release baseline models for all twelve tasks, as well as the framework for benchmark evaluation, and thus it enables everyone to benchmark their system performances. 
 
-<i class="fas fa-book" aria-hidden="true"></i> **Paper:** IndoNLU: Benchmark and Resources for Evaluating Indonesian Natural Language Understanding [AACL 2020](https://aclanthology.org/2020.aacl-main.85.pdf){: .btn .btn--success .btn--small } 
+<i class="fas fa-book" aria-hidden="true"></i> **Paper:** IndoNLU: Benchmark and Resources for Evaluating Indonesian Natural Language Understanding [AACL 2020](https://aclanthology.org/2020.aacl-main.85.pdf){: .btn .btn--info .btn--small } 
 {: .notice}
 
 <i class="fas fa-at" aria-hidden="true"></i> **Authors:** Bryan Wilie*, Karissa Vincentio*, Genta Indra Winata*, Samuel Cahyawijaya*, Xiaohong Li, Zhi Yuan Lim, Sidik Soleman, Rahmad Mahendra, Pascale Fung, Syafri Bahar, Ayu Purwarianti (* equal contribution)
