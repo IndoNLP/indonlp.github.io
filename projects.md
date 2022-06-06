@@ -1,5 +1,6 @@
 ---
 layout: single
+classes: wide2
 title: "Projects"
 toc: true
 toc_label: "Our Projects"

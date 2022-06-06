@@ -15,3 +15,29 @@ $doc-font-size: 8;
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
+
+// custom layout
+.wide2 {
+  .page {
+    float: left;
+    width: 100%;
+    @include breakpoint($large) {
+      padding-left: 0;
+    }
+
+    @include breakpoint($x-large) {
+      padding-left: 0;
+    }
+  }
+
+  .page__related {
+    @include breakpoint($large) {
+      padding-left: 0;
+    }
+
+    @include breakpoint($x-large) {
+      padding-left: 0;
+    }
+  }
+}
+
