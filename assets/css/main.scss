@@ -7,11 +7,11 @@ search: false
 
 $link-color: rgb(232, 128, 1);
 
-$right-sidebar-width-narrow: 100px;
+$right-sidebar-width-narrow: 120px;
 $right-sidebar-width: 180px;
 $right-sidebar-width-wide: 260px;
 
-$doc-font-size: 8;
+$doc-font-size: 14;
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
