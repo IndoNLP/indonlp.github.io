@@ -22,24 +22,35 @@ $doc-font-size: 8;
     float: left;
     @include breakpoint($large) {
       padding-left: 0;
-      width: calc(100% - #{$right-sidebar-width-narrow} * 2);
+      width: calc(100% - #{$right-sidebar-width-narrow});
     }
 
     @include breakpoint($x-large) {
       padding-left: 0;
-      width: calc(100% - #{$right-sidebar-width} * 2);
+      width: calc(100% - #{$right-sidebar-width});
     }
   }
 
+  .sidebar__right {
+    @include breakpoint($large) {
+      width: 2 * $right-sidebar-width-narrow;
+      margin-right: -2 * $right-sidebar-width-narrow;
+    }
+
+    @include breakpoint($x-large) {
+      width: 2 * $right-sidebar-width;
+      margin-right: -2 * $right-sidebar-width;
+    } 
+  }
   .page__related {
     @include breakpoint($large) {
       padding-left: 0;
-      width: calc(100% - #{$right-sidebar-width-narrow} * 2);
+      width: calc(100% - #{$right-sidebar-width-narrow});
     }
 
     @include breakpoint($x-large) {
       padding-left: 0;
-      width: calc(100% - #{$right-sidebar-width} * 2);
+      width: calc(100% - #{$right-sidebar-width});
     }
   }
 }
