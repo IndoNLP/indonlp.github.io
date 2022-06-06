@@ -20,23 +20,26 @@ $doc-font-size: 8;
 .wide2 {
   .page {
     float: left;
-    width: 100%;
     @include breakpoint($large) {
       padding-left: 0;
+      width: calc(100% - #{$right-sidebar-width-narrow} * 2);
     }
 
     @include breakpoint($x-large) {
       padding-left: 0;
+      width: calc(100% - #{$right-sidebar-width} * 2);
     }
   }
 
   .page__related {
     @include breakpoint($large) {
       padding-left: 0;
+      width: calc(100% - #{$right-sidebar-width-narrow} * 2);
     }
 
     @include breakpoint($x-large) {
       padding-left: 0;
+      width: calc(100% - #{$right-sidebar-width} * 2);
     }
   }
 }
