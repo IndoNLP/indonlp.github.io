@@ -29,7 +29,7 @@ We released a high-quality parallel sentiment corpus on 10 low-resource language
 ## How to contribute?
 
 See our current project(s) and if any of those interest you, please reach us!
-You can also contact us if you have cool ideas or looking for a collaborations with local researchers.
+You can also contact us if you have cool ideas or looking for a collaborations with local researchers, and they have to be **open-source projects**.
 
 We are currently building a crowd-sourced, Indonesian resources covering as many local languages as possible. We are also encouraging local researchers to release their existing resource which was locked behind private institution to be more accessible, thus advancing the progress in Indonesian NLP. [See here If you are interested](https://github.com/IndoNLP/nusa-datasets).
 
