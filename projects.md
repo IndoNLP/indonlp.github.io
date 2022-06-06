@@ -3,6 +3,7 @@ layout: single
 classes: wide2
 title: "Projects"
 toc: true
+toc_sticky: true
 toc_label: "Our Projects"
 excerpt: What we do?
 header:
