@@ -1,6 +1,8 @@
 ---
 layout: single
 title: "Projects"
+toc: true
+toc_label: "Our Projects"
 excerpt: What we do?
 header:
   overlay_image: /assets/images/banner.jpg
